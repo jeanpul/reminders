@@ -7,5 +7,5 @@ apt-get install certbot python-certbot-apache
 ```
 ### test fake
 ```sh
-certbot --apache --test-cert --dry-run
+certbot --apache --test-cert --dry-run renew
 ```
