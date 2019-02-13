@@ -1,1 +1,3 @@
-# reminders
+# Reminders
+
+## [Rézo](network/README.md)
